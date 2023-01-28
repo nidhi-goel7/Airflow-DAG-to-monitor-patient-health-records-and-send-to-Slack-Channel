@@ -30,7 +30,7 @@ FILE_PATH_OUTPUT = '/home/airflow/gcs/data/output/'
 # Import CSV into a pandas dataframe
 df = pd.read_csv(FILE_PATH_INPUT+file_name)
 # Slack webhook link
-slack_webhook = 'https://hooks.slack.com/services/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'
+slack_webhook = 'https://hooks.slack.com/####################'
 
 # --------------------------------
 # FUNCTION DEFINITIONS
